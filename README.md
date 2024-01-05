@@ -1,4 +1,4 @@
-## Why?
+# Why?
 To save me bookmark space in my browser; and to a provide a personal, centralized resource while I learn systems programming and some web development. 
 
 Also as a tool to learn version control on a small scale with Git. 
@@ -24,13 +24,13 @@ I take no credit for any resources listed and the authors of them should be supp
 
 ## Miscellaneous 
 
-### Crafting Interpreters
-- [Crafting Interpreters](https://craftinginterpreters.com/)
-### Pen-test Notes
+### Interpreters & Compilers 
+- [Crafting Interpreters](https://craftinginterpreters.com/) 
+### Cybersecurity 
 - [Pen-test Notes](https://github.com/wwong99/pentest-notes/blob/master/oscp_resources/OSCP-Survival-Guide.md)
-### Writing an OS In Rust 
+### Operating Systems  
 - [Writing an OS in Rust](https://os.phil-opp.com/)
-### Discrete Math w/ Python 
+### Math  
 - [Discrete Math w/ Python](https://ggc-discrete-math.github.io/python_intro.html)
 
 ## TO-DO 

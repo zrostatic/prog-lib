@@ -17,11 +17,11 @@
 
 ## Miscellaneous 
 
-### Crafting Interpreters
-- [Crafting Interpreters](https://craftinginterpreters.com/)
-### Pen-test Notes
+### Interpreters & Compilers 
+- [Crafting Interpreters](https://craftinginterpreters.com/) 
+### Cybersecurity 
 - [Pen-test Notes](https://github.com/wwong99/pentest-notes/blob/master/oscp_resources/OSCP-Survival-Guide.md)
-### Writing an OS In Rust 
+### Operating Systems  
 - [Writing an OS in Rust](https://os.phil-opp.com/)
-### Discrete Math w/ Python 
+### Math  
 - [Discrete Math w/ Python](https://ggc-discrete-math.github.io/python_intro.html)
