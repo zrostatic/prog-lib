@@ -17,7 +17,7 @@ I take no credit for any resources listed and the authors of them should be supp
 ### C
 - [K&R C](https://colorcomputerarchive.com/repo/Documents/Books/The%20C%20Programming%20Language%20(Kernighan%20Ritchie).pdf) The C bible.
 - [Learn C](https://www.learn-c.org/) An alternative to K&R.
-- [Makefiles] (https://makefiletutorial.com/#the-essence-of-make) Applies to C/C++; demystifies makefiles. 
+- [Makefiles](https://makefiletutorial.com/#the-essence-of-make) Applies to C/C++; demystifies makefiles. 
 
 ### C++
 - [learncpp](https://www.learncpp.com) A popular and concise resource for C++ 
