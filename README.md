@@ -32,3 +32,10 @@ I take no credit for any resources listed and the authors of them should be supp
 - [Writing an OS in Rust](https://os.phil-opp.com/)
 ### Discrete Math w/ Python 
 - [Discrete Math w/ Python](https://ggc-discrete-math.github.io/python_intro.html)
+
+## TO-DO 
+- Add more resources (obviously)
+- Add concise descriptions for each link 
+- Add resources unrelated to programming; learning sciences, productivity, etc. 
+- Beautify Markdown syntax  
+- Sync prog-lib & readme somehow; incredibly redundant 
