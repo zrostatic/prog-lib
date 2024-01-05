@@ -17,10 +17,19 @@ I take no credit for any resources listed and the authors of them should be supp
 ### C
 - [K&R C](https://colorcomputerarchive.com/repo/Documents/Books/The%20C%20Programming%20Language%20(Kernighan%20Ritchie).pdf) The C bible.
 - [Learn C](https://www.learn-c.org/) An alternative to K&R.
+- [Makefiles] (https://makefiletutorial.com/#the-essence-of-make) Applies to C/C++; demystifies makefiles. 
 
 ### C++
 - [learncpp](https://www.learncpp.com) A popular and concise resource for C++ 
 - [C++ Reference](https://en.cppreference.com/w/) C++ language reference 
+
+## x86 Assembly 
+- [Fundamental Intro to Assembly](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming)
+
+## Web Development 
+
+### TypeScript
+- [Essential TypeScript](https://www.programming-books.io/essential/typescript/getting-started-fc960b9a93674d2a8ddb08e631981af5)
 
 ## Miscellaneous 
 
@@ -32,10 +41,15 @@ I take no credit for any resources listed and the authors of them should be supp
 - [Writing an OS in Rust](https://os.phil-opp.com/)
 ### Math  
 - [Discrete Math w/ Python](https://ggc-discrete-math.github.io/python_intro.html)
+## Custom Lisp in C 
+- [Build your own Lisp](https://www.buildyourownlisp.com/contents)
+## Official Vulkan Tutorial 
+- [Vulkan Tutorial](https://vulkan-tutorial.com/)
 
 ## TO-DO 
 - Add more resources (obviously)
 - Add better descriptions 
 - Add resources unrelated to programming; learning sciences, productivity, etc. 
+- Put all of this into a gitbook; will link to that shortly after
 - Beautify Markdown syntax  
 - Sync prog-lib & readme somehow; incredibly redundant 

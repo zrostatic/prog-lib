@@ -15,6 +15,13 @@
 - [learncpp](https://www.learncpp.com) A popular and concise resource for C++ 
 - [C++ Reference](https://en.cppreference.com/w/) C++ language reference 
 
+## Web Development 
+
+### TypeScript
+- [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/getting-started)
+
+
+
 ## Miscellaneous 
 
 ### Interpreters & Compilers 
