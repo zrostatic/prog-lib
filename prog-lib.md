@@ -41,11 +41,19 @@
 
 ## Miscellaneous 
 
-### Interpreters & Compilers 
+### Interpreters & Compilers
+ 
 - [Crafting Interpreters](https://craftinginterpreters.com/) 
-### Cybersecurity 
+### Cybersecurity
+
 - [Pen-test Notes](https://github.com/wwong99/pentest-notes/blob/master/oscp_resources/OSCP-Survival-Guide.md)
+
 ### Operating Systems  
 - [Writing an OS in Rust](https://os.phil-opp.com/)
+
 ### Math  
 - [Discrete Math w/ Python](https://ggc-discrete-math.github.io/python_intro.html)
+
+## TO-DO 
+- add more resources 
+- beautify syntax 
